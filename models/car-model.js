@@ -147,7 +147,7 @@ export default {
         { title: 'Year', value: '2015'},
         { title: 'Audio', value: 'Radio, Audio-CD, MP3, USB, AUX, Bluetooth'},
         { title: 'Seats', value: '7'},
-        { title: 'Drive', value: '4x4'},
+        { title: 'Drive', value: 'FWD'},
         { title: 'Сabrio', value: 'No'},
         { title: 'Left-hand drive', value: 'Yes'},
         { title: 'Interior material', value: 'Leather'},
